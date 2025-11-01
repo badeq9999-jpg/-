@@ -1,79 +1,43 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
+*Your idea briefly:*
 
-# Project Title
+"Wardty" project - an electronic platform specialised in making bouquets of roses and presenting them as gifts, with advertising and advertising campaigns targeting schools and society.
 
-Final project for the Building AI course
+*Background:*
 
-## Summary
+The problem: the difficulty of obtaining unique and customised rose bouquets, and lack of awareness of the importance of roses as a gift.
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Common problem: Common in the community, especially on special occasions.
 
+Your personal motivation: the love of roses and the desire to give unique and distinctive gifts.
 
-## Background
+The importance of the topic: Enhancing awareness of the importance of roses as a gift, and offering unique and customised options.
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+*Data and artificial intelligence techniques:*
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Data sources: customer data, order data, available rose data.
 
+Artificial intelligence techniques: machine learning to analyse customer preferences, and recognise patterns in orders.
 
-## How is it used?
+*How to use it:*
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Context: special occasions, personalised gifts.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+Users: individuals, schools, and companies.
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+Affected: customers, shop owners, and the community.
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+*Challenges:*
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
+Limits: Availability of roses, and timely delivery.
 
-   # write your solution here
+Technical challenges: analysing data, developing an easy user interface.
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+*What next:*
 
-main()
-```
+Expansion: Add other services such as delivery and monthly subscriptions.
 
+Development: Improve the user interface, and expand the scope of marketing.
 
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+*Thanks and appreciation:*
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Sources of inspiration: similar electronic platforms, and experts in the field of roses.
